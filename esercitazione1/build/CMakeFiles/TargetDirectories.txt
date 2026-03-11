@@ -1,4 +1,0 @@
-/home/pcsdocker/Data/PCS-26/esercitazione1/build/CMakeFiles/programma.dir
-/home/pcsdocker/Data/PCS-26/esercitazione1/build/CMakeFiles/temp.dir
-/home/pcsdocker/Data/PCS-26/esercitazione1/build/CMakeFiles/edit_cache.dir
-/home/pcsdocker/Data/PCS-26/esercitazione1/build/CMakeFiles/rebuild_cache.dir

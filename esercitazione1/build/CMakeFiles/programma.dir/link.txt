@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Wl,--dependency-file=CMakeFiles/programma.dir/link.d CMakeFiles/programma.dir/programma.cpp.o -o programma
