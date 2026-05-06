@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Werror=vla -Wno-sign-compare -Wl,--dependency-file=CMakeFiles/test_mixsort.dir/link.d CMakeFiles/test_mixsort.dir/test_mixsort.cpp.o CMakeFiles/test_mixsort.dir/timecounter.cpp.o -o test_mixsort
