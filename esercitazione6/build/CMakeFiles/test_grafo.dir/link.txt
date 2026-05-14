@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/test_grafo.dir/link.d CMakeFiles/test_grafo.dir/testing_grafo.cpp.o -o test_grafo
